@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Built-By: Administrator
-Class-Path: lib/jsoup-1.14.3.jar
-Build-Jdk: 1.8.0_131
-Created-By: Maven Integration for Eclipse
-Main-Class: com.rishabh.maven_frst_docker.App
-
